@@ -50,24 +50,18 @@ Body Mass ───┘
 
 ## 📂 Folder Structure
 ```
-LoveBirdID/
-│
-├── dataset/                 # Lovebird recordings and biometric data
-├── model/                   # Trained RF and HMM models (.pkl / .h5)
-├── src/                     # Core scripts (training, preprocessing, fusion)
-│   ├── train_rf.py
-│   ├── train_hmm.py
-│   ├── fusion_predict.py
-│   └── utils/
-│
-├── webapp/                  # Flask web app and interface
-│   ├── templates/
-│   ├── static/
-│   └── app.py
-│
-├── notebooks/               # Jupyter notebooks for testing and analysis
-├── requirements.txt
+code/
+├── audio/
+│   ├── corrected_data/
+│   ├── new_test_data/
+│   └── training_audio/
+│       ├── female/
+│       └── male/
+├── data/
+├── models/
+├── prototype_display/
 └── README.md
+
 ```
 
 ---
