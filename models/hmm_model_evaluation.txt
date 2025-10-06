@@ -1,0 +1,29 @@
+HMM Model Evaluation (Leave-One-Out CV)
+==================================================
+Total audio files: 8
+Valid predictions: 8
+Accuracy: 1.0000
+
+Classification Report:
+              precision    recall  f1-score   support
+
+        male       1.00      1.00      1.00         4
+      female       1.00      1.00      1.00         4
+
+    accuracy                           1.00         8
+   macro avg       1.00      1.00      1.00         8
+weighted avg       1.00      1.00      1.00         8
+
+Confusion Matrix:
+[[4 0]
+ [0 4]]
+
+Detailed Results:
+LBM001.wav: True=male, Pred=male, Conf=0.500, Correct=True
+LBM002.wav: True=male, Pred=male, Conf=0.500, Correct=True
+LBM003.wav: True=male, Pred=male, Conf=0.500, Correct=True
+LBM004.wav: True=male, Pred=male, Conf=0.500, Correct=True
+LBF001.wav: True=female, Pred=female, Conf=0.500, Correct=True
+LBF002.wav: True=female, Pred=female, Conf=0.500, Correct=True
+LBF003.wav: True=female, Pred=female, Conf=0.500, Correct=True
+LBF004.wav: True=female, Pred=female, Conf=0.500, Correct=True

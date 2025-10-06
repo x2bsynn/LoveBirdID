@@ -1,0 +1,6 @@
+file,true_sex,weight,rf_pred,rf_confidence,hmm_pred,hmm_confidence,fused_pred,fused_confidence,correct
+LBF002 copy.wav,male,54.8,male,0.92,female,0.5,male,0.75,True
+LBF001.wav,female,53.1,female,0.69,female,0.5,female,0.75,True
+LBF002.wav,female,46.1,female,0.93,female,0.5,female,0.75,True
+LBM003.wav,male,53.8,male,0.67,male,0.5,male,0.75,True
+test1.wav,male,53.0,female,0.69,male,0.5,female,0.75,False

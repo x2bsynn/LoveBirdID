@@ -1,0 +1,24 @@
+Random Forest Model Evaluation (Leave-One-Out CV)
+==================================================
+Dataset Size: 4
+Class Distribution:
+sex
+male      2
+female    2
+Name: count, dtype: int64
+
+Accuracy: 0.5000
+
+Classification Report:
+              precision    recall  f1-score   support
+
+      female       0.50      0.50      0.50         2
+        male       0.50      0.50      0.50         2
+
+    accuracy                           0.50         4
+   macro avg       0.50      0.50      0.50         4
+weighted avg       0.50      0.50      0.50         4
+
+Confusion Matrix:
+[[1 1]
+ [1 1]]
