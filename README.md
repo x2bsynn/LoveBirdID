@@ -145,13 +145,13 @@ Bachelor of Science in Computer Engineering (A.Y. 2024–2025)
 
 | Name | Role |
 |------|------|
-| **Ghyne Clarence F. Miguel** | ML Developer / Data Specialist |
-| **Martin Joe V. Vinuya** | Hardware Integration / System Engineer |
-| **Jan Christian D. Wagan** | Web Developer / UI-UX Designer |
+| **Ghyne Clarence F. Miguel** | Data Specialist |
+| **Martin Joe V. Vinuya** | Hardware Integration |
+| **Jan Christian D. Wagan** | ML Developer / UI-UX Designer |
 
 **Thesis Adviser:** *Engr. Ricrey E. Marquez, PCpE*  
 **Panel Chair:** *Engr. Orlando M. Lingo, PCpE*  
-**Dean:** *Engr. Robert James Y. Lomotan, MSME*  
+**College Dean:** *Engr. Robert James Y. Lomotan, MSME*  
 **College President:** *Dr. Teresita C. Fortuna, CESO III*
 
 ---
@@ -183,7 +183,7 @@ OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
 Special thanks to:
 - **Engr. Ricrey E. Marquez**, Thesis Adviser  
 - **Engr. Orlando M. Lingo**, Panel Chair  
-- **Engr. Tristan Jay Calaguas** and **Engr. Darius Añonuevo**, Panel Members  
+- **Engr. Tristan Jay Calaguas, MSCS** and **Engr. Darius Añonuevon, MIT**, Panel Members  
 - **Engr. Robert James Lomotan**, College Dean  
 - **Dr. Teresita C. Fortuna**, College President  
 - The **Computer Engineering Department**, Colegio de Muntinlupa  
